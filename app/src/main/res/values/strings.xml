@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mr Bugdroid</string>
+    <string name="Udacity">Udacity</string>
+    <string name="bugdroid_says">Mr Bugdroid says:</string>
+    <string name="hurray">Hip hip hooray!</string>
+    <string name="achievement">You finished your first online course on</string>
 </resources>
